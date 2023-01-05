@@ -1,0 +1,11 @@
+.users__list__item{
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgb(108, 108, 108);
+    padding: 5px;
+}
+
+.users__list__item img{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
